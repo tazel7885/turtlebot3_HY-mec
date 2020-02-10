@@ -1,0 +1,9 @@
+<launch>
+<node name="Joyuri" pkg="wiz_one" type="Joyuri.py" output="screen"/>
+<node name="IZ_ONE" pkg="wiz_one" type="IZ_ONE.py" output="screen"/>
+<node name="Anyujin" pkg="wiz_one" type="Anyujin.py" output="screen"/>
+<node name="Hitomi" pkg="wiz_one" type="Hitomi.py" output="screen"/>
+<node name="violeta" pkg="wiz_one" type="violeta.py" output="screen"/>
+
+
+</launch>
